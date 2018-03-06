@@ -1,0 +1,17 @@
+{
+    "projectName": "LumenazaChng",
+    "username": "b.jarmolinski@sonnenbatterie.de.devbjarm",
+    "id": "46347aa0-211e-11e8-a07f-f3ac9bd09549",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://sonnen--devBJarm.cs88.my.salesforce.com",
+    "workspace": "C:\\Users\\b.jarmolinski\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

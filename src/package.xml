@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AccountService</members>
+        <members>LumenazaApi</members>
+        <members>LumenazaBonus</members>
+        <members>LumenazaBonusTriggerHandler</members>
+        <members>LumenazaChange</members>
+        <members>LumenazaContract</members>
+        <members>LumenazaContractBatchTests</members>
+        <members>LumenazaContractChangeBatch</members>
+        <members>LumenazaContractChangeCheckBatch</members>
+        <members>LumenazaContractDeliveryBatch</members>
+        <members>LumenazaContractDeliverySched</members>
+        <members>LumenazaContractInvoiceSched</members>
+        <members>LumenazaContractInvoiceSynchronizer</members>
+        <members>LumenazaContractTriggerHandler</members>
+        <members>LumenazaInboundMailHandler</members>
+        <members>LumenazaObject</members>
+        <members>LumenazaRestApiMockDispatcher</members>
+        <members>LumenazaTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>TriggerLumenazaContract</members>
+        <name>ApexTrigger</name>
+    </types>
+    <version>36.0</version>
+</Package>
